@@ -2,8 +2,7 @@
   
 # 👋 Hi, I'm Sayanth M K
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Flutter+Developer;Self-taught+Programmer;Always+Learning+New+Things)](https://git.io/typing-svg)
-<img src="https://user-images.githubusercontent.com/35039342/55468409-ef956b80-5627-11e9-8fb2-170cba03c8b5.gif" width="300">
-</div>
+
 
 </div>
 
