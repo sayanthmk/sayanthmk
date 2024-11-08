@@ -1,8 +1,9 @@
 <div align="center">
   
 # 👋 Hi, I'm Sayanth M K
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Flutter+Developer;Self-taught+Programmer;Always+Learning+New+Things)](https://git.io/typing-svg)
+
+<img src="https://raw.githubusercontent.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/master/assets/1936.gif" width="350">
 
 </div>
 
@@ -13,7 +14,6 @@
 - ⚡ Fun fact: I bring both humor and calm to my coding sessions!
 
 ## 🛠️ Tech Stack
-
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -33,7 +33,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🤝 Connect with me
-
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayanth-m-k-321126233)
@@ -42,7 +41,6 @@
 </div>
 
 ## 📊 GitHub Stats
-
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=sayanthmk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
@@ -50,9 +48,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayanthmk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
-
-
-
-
-
-
