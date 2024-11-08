@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hello World, I'm Sayanth M K
+# 👋 Hi, I'm Sayanth M K
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Flutter+Developer;Self-taught+Programmer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
@@ -32,6 +32,15 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+## 🤝 Connect with me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayanth-m-k-321126233)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/sayanthmk99)
+
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -42,18 +51,8 @@
 
 </div>
 
-## 🤝 Connect with me
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayanth-m-k-321126233)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/sayanthmk99)
 
-</div>
 
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sayanthmk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-</div>
 
 
