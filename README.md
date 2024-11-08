@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayanth M K</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
+<h3 align="center">Self taught Flutter Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayanthmk&label=Profile%20views&color=0e75b6&style=flat" alt="sayanthmk" /> </p>
 
